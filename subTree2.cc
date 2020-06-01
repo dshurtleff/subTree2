@@ -3,5 +3,5 @@
 
 void myPrintSubTree1(void)
 {
-	std::cout << "Hello from subTree2! (initial commit)" << std::endl;
+	std::cout << "Hello from subTree2! (master)" << std::endl;
 }
